@@ -1,4 +1,4 @@
-# Girlfriend Terminal Pet
+# Terminal Pet
 
 Windows 桌宠，素材来自 `new_hh/hh.jpg`。
 
